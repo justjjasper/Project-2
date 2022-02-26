@@ -1,3 +1,5 @@
+console.log('Sleep-Calculator')
+
 // userChoice = prompt('Do you like pie?')
 
 const getSleepHours = (day) => {

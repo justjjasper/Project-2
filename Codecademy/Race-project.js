@@ -1,3 +1,5 @@
+console.log('Race-project')
+
 // The scope of `random` is too loose 
 // const random = Math.floor(Math.random() * 3);
 
